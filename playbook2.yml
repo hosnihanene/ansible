@@ -1,0 +1,4 @@
+- name: Config Vim with plugins
+  hosts: localhost
+
+  
